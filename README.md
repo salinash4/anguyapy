@@ -1,6 +1,6 @@
 ### Hi, I'm Hugo Salinas 👋
 
-A passionate back-front developer
+A passionate software developer
 
 - 🔭 I’m currently working on SYSCOR Consulting
 - 🌱 I’m currently learning Angular 
