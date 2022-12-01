@@ -3,7 +3,7 @@
 A passionate software developer
 
 - 🔭 I’m currently working on SYSCOR Consulting
-- 🌱 I’m currently learning Angular 
+- 🌱 I’m currently learning Angular & Vuejs
 
 Languages and Tools
 
