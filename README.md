@@ -2,8 +2,8 @@
 
 A passionate software developer
 
-- 🔭 I’m currently working on SYSCOR Consulting
-- 🌱 I’m currently learning Angular & Vue.js
+- 🔭 I’m currently working on SYSCOR Consulting & COODENE Ltda.
+- 🌱 I’m currently learning Angular, SpringBoot & Vue.js
 
 Languages and Tools
 
