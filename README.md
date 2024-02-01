@@ -2,8 +2,7 @@
 
 A passionate software developer
 
-- 🔭 I’m currently working on SYSCOR Consulting & COODENE Ltda.
-- 🌱 I’m currently learning Angular, SpringBoot & Vue.js
+- 🌱 I’m currently learning Angular, SpringBoot.
 
 Languages and Tools
 
